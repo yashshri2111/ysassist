@@ -6,7 +6,6 @@ YSAssist is a Python-based assistant that bridges natural language with local sy
 
 ## 📸 GUI Snapshot
 ![Main Interface](./gui/gui.png) 
-*(Replace gui_screenshot.png with your actual file name in the assets folder)*
 
 ## 🚀 Key Features
 - **Agentic Execution:** Opens apps and manages files autonomously.
