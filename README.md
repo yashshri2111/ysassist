@@ -5,7 +5,7 @@ An Agentic Desktop Assistant powered by Gemini API and Python
 YSAssist is a Python-based assistant that bridges natural language with local system execution using the Gemini API.
 
 ## 📸 GUI Snapshot
-![Main Interface](./assets/gui_screenshot.png) 
+![Main Interface](./gui/gui.png) 
 *(Replace gui_screenshot.png with your actual file name in the assets folder)*
 
 ## 🚀 Key Features
